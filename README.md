@@ -314,6 +314,7 @@ plt.show()
 ## Files Required
 - `a_bliadze25_42198.csv` - Dataset with email features and spam labels
 - `spam_email_detection.ipynb` - Jupyter Notebook with complete analysis
+- `correlation.ipynb` - Correlation analysis notebook
 
 ---
 
@@ -335,8 +336,6 @@ plt.show()
 
 ---
 
-**Project Created**: AI/ML Mid-Year Assignment 2026
-**Student ID**: a_bliadze25
-#   a i m l m i d 2 0 2 6 _ a _ b l i a d z e 2 5  
- #   a i m l m i d 2 0 2 6 _ a _ b l i a d z e 2 5  
- 
+**Project Created**: AI/ML Mid-Year Assignment 2026  
+**Student ID**: a_bliadze25  
+**Repository**: https://github.com/Ani-Bliadze/aimlmid2026_a_bliadze25
